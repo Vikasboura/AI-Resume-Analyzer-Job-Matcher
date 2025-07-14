@@ -20,7 +20,7 @@ cd ai-resume-matcher
 python -m venv venv
 .\venv\Scripts\activate
 
-3 Install dependencies
+3) Install dependencies
 
 pip install -r requirements.txt
 
