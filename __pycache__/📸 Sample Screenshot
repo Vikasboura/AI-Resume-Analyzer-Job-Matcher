@@ -1,0 +1,13 @@
+
+✅ Replace `YOUR_USERNAME` with your GitHub username.
+
+---
+
+## 🔁 Step 5: Initialize Git Locally
+
+### 🖥️ In terminal:
+```bash
+cd C:\ai-resume-matcher
+git init
+git add .
+git commit -m "Initial commit - AI Resume Matcher"
