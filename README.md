@@ -63,8 +63,4 @@ ai-resume-matcher/
 ├── README.md
 └── venv/
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Flask](https://img.shields.io/badge/Flask-2.2-lightgrey)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
-
 
